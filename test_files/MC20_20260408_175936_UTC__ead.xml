@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://raw.githubusercontent.com/SAA-SDT/EAD3/master/ead3.rng"
+      type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<ead xmlns="http://ead3.archivists.org/schema/"><control countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" relatedencoding="marc" repositoryencoding="iso15511" scriptencoding="iso15924"><recordid instanceurl="">VAE6767</recordid><filedesc><titlestmt><titleproper>A. Peter Brown Collection </titleproper><subtitle>Collection of A. Peter Brown</subtitle><author>Sarah Helen Carter</author></titlestmt><publicationstmt><publisher>Cook Music Library</publisher><address><addressline>William &amp; Gayle Cook Music Library</addressline><addressline>200 South Jordan Avenue</addressline><addressline>Bloomington, Indiana 47405</addressline><addressline localtype="business">812-855-2970</addressline><addressline localtype="email">libmus@iu.edu</addressline><addressline><ref href="https://libraries.indiana.edu/music" linktitle="https://libraries.indiana.edu/music" show="new">https://libraries.indiana.edu/music</ref></addressline></address><date>7/24/2025</date><num>MC20</num><p><ptr actuate="onload" href="http://webapp1.dlib.indiana.edu/archivesOnline/repositoryImages/music.jpg" show="embed"/></p></publicationstmt><notestmt><controlnote><p>This is a preliminary finding aid. Processing is ongoing. Additional details will be added as processing is completed.</p></controlnote></notestmt></filedesc><maintenancestatus value="derived"/><maintenanceagency countrycode="US"><agencycode>US-InU</agencycode><agencyname>Cook Music Library</agencyname></maintenanceagency><languagedeclaration><language langcode="eng">English</language><script scriptcode="Latn">Latin</script></languagedeclaration><conventiondeclaration><abbr>dacs</abbr><citation>Describing Archives: A Content Standard</citation></conventiondeclaration><localcontrol localtype="findaidstatus"><term>in_progress</term></localcontrol><maintenancehistory><maintenanceevent><eventtype value="derived"/><eventdatetime>2026-04-08T13:59:37-04:00</eventdatetime><agenttype value="machine"/><agent>ArchivesSpace v3.5.1</agent><eventdescription>This finding aid was produced using ArchivesSpace on Wednesday April  8, 2026 at 13:59</eventdescription></maintenanceevent></maintenancehistory></control><archdesc level="collection">
+  <did>
+    <unittitle>A. Peter Brown Collection</unittitle>
+    <unitid>MC20</unitid>
+    <unitid localtype="aspace_uri">/repositories/11/resources/6063</unitid>
+    <repository>
+      <corpname>
+        <part>Cook Music Library</part>
+      </corpname>
+    </repository>
+    <langmaterial>
+      <languageset>
+        <language langcode="eng">English</language>
+        <script scriptcode="Latn">Latin</script>
+      </languageset>
+      <languageset>
+        <language langcode="ger">German</language>
+        <script scriptcode="Latn">Latin</script>
+      </languageset>
+      <languageset>
+        <language langcode="ita">Italian</language>
+        <script scriptcode="Latn">Latin</script>
+      </languageset>
+      <languageset>
+        <language langcode="fre">French</language>
+        <script scriptcode="Latn">Latin</script>
+      </languageset>
+      <languageset>
+        <language langcode="hun">Hungarian</language>
+        <script scriptcode="Latn">Latin</script>
+      </languageset>
+      <languageset>
+        <language langcode="cze">Czech</language>
+        <script scriptcode="Latn">Latin</script>
+      </languageset>
+      <languageset>
+        <language langcode="swe">Swedish</language>
+        <script scriptcode="Latn">Latin</script>
+      </languageset>
+      <languageset>
+        <language langcode="dan">Danish</language>
+        <script scriptcode="Latn">Latin</script>
+      </languageset>
+      <languageset>
+        <language langcode="dut">Dutch; Flemish</language>
+        <script scriptcode="Latn">Latin</script>
+      </languageset>
+      <languageset>
+        <language langcode="gre">Greek, Modern (1453-)</language>
+        <script scriptcode="Grek">Greek</script>
+      </languageset>
+      <languageset>
+        <language langcode="nor">Norwegian</language>
+        <script scriptcode="Latn">Latin</script>
+      </languageset>
+      <languageset>
+        <language langcode="pol">Polish</language>
+        <script scriptcode="Latn">Latin</script>
+      </languageset>
+      <languageset>
+        <language langcode="por">Portuguese</language>
+        <script scriptcode="Latn">Latin</script>
+      </languageset>
+    </langmaterial>
+    <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+      <quantity>23</quantity>
+      <unittype>linear feet</unittype>
+    </physdescstructured>
+    <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+      <quantity>403</quantity>
+      <unittype>item(s)</unittype>
+    </physdescstructured>
+    <unitdate datechar="creation" unitdatetype="inclusive">[unknown]</unitdate>
+    <abstract audience="internal" id="aspace_9025ee71c1e622babeff14df35b2a4c1">The A. Peter Brown Collection consists of LPs, scores, and books from the personal effects of A. Peter Brown, former chair of the Indiana University Department of Muiscology.</abstract>
+    <physloc audience="internal" id="aspace_07678e817bde0253beb666011c4ef150">Cook Music Library (200 S Eagleson Ave, Bloomington, Indiana)</physloc>
+    <origination label="Creator">
+      <persname identifier="n79010134" rules="rda" source="lcnaf">
+        <part>Brown, A. Peter (Alfred Peter), 1943-2003</part>
+      </persname>
+    </origination>
+  </did>
+  <accessrestrict audience="internal" id="aspace_ccfd960a41ecd027b76e6619916c136f">
+    <head>Conditions Governing Access</head>
+<p>Collection is open for research. Advance notice required.</p>  </accessrestrict>
+  <userestrict audience="internal" id="aspace_2a7de29302e3104e5e87aaeffd9c2213">
+    <head>Conditions Governing Use</head>
+<p>The donor(s) of this collection have not transferred their copyrights for the materials to the William &amp; Gayle Cook Music Library. For more information, please contact the Music Library staff.</p><p>The William &amp; Gayle Cook Music Library respects the intellectual property rights of others and does not claim any copyrights for non-university records, materials in the public domain, or materials for which we do not hold a Deed of Gift. Responsibility for the determination of the copyright status of these materials rests with those persons wishing to reuse the materials. Researchers are responsible for securing permission from copyright owners and any other rights holders for any reuse of these materials that extends beyond fair use or other statutory limitations.</p><p>Digital reproductions of archival materials from the William &amp; Gayle Cook Music Library are made available for noncommercial educational and research purposes only. If you are the copyright holder for any of the digitized materials and have questions about its inclusion on our site, please <ref href="https://libraries.indiana.edu/cook-music-library">contact the Cook Music Library</ref> staff for more details.</p>  </userestrict>
+  <acqinfo audience="internal" id="aspace_884e61cf4773d8c61f848ca8edb340b0">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of the Estate of A. Peter Brown, 1980-1981 and 2013.</p>  </acqinfo>
+  <bioghist audience="internal" id="aspace_a408df2638c097ddc7698d3b5e077629">
+    <head>Biographical / Historical</head>
+<p>Alfred Peter Brown II was born on April 30, 1943 to Alfred and Helen Brown in Chicago, Illinois. He earned a Bachelor of Music in French Horn Performance as well as a Master of Music degree and a Ph.D. in musicology from Northwestern University. Brown began his teaching career at the University of Hawaii. On March 30, 1968, he married Carol Vanderbilt. In 1974, Brown became a faculty member in the Jacobs School of Music at Indiana University. In 1978, he was awarded a Guggenheim Fellowship for music research and took a leave of absence from IU for the 1978-1979 academic year. Brown was recommended for tenure in 1978 and was promoted from associate professor to full professor in 1981. At the time of his death, Brown was professor and chairperson of the Department of Musicology.</p><p>Brown is most widely recognized for his research on composer Franz Josef Haydn. Brown wrote and co-authored several books on the composer and the critical score for Die Schopfung (The Creation). The Creation is an oratorio (a large-scale musical work for orchestra and voices) written by Haydn between 1797 and 1798. Brown is also recognized for his four-volume series, Symphonic Repertoire, which was completed by his colleagues following his death. In addition to Haydn, Brown also dedicated significant portions of his research and writing to Carlos d'Ordonez, the music publisher de Guera, Antonia Caldera, and classical trumpet music.</p><p>Brown died from cancer on March 10, 2003. The A. Peter Brown and Carol V. Brown Research Travel Fund at IU was set up by the Brown family to support research travel for graduate students in musicology.</p><p>&amp;nbsp;</p><p>Biography retrieved from the Indiana University Archives&amp;rsquo; finding aid for the A. Peter Brown papers, 1944-2003, bulk 1973-2000 https://archives.iu.edu/catalog/InU-Ar-VAA8138&amp;nbsp;</p>  </bioghist>
+  <processinfo audience="internal" id="aspace_b5485593c9690a453ac03965ad8ff344">
+    <head>Processing Information</head>
+<p>Preliminary collection survey and accession record completed by Sarah Helen Carter, March 2025. Finding aid created by Sarah Helen Carter, July 2025.</p>  </processinfo>
+  <prefercite audience="internal" id="aspace_7e18d34b98689daee2c7fb7eeaca3975">
+    <head>Preferred Citation</head>
+<p>[Item], A. Peter Brown Collection, Collection MC20, William &amp; Gayle Cook Music Library, Bloomington.</p>  </prefercite>
+  <relatedmaterial audience="internal" id="aspace_a2563081bf07bd1af3a0d52b39270164">
+    <head>Related Materials</head>
+<p>IU University Archives. A. Peter Brown papers, 1944-2003. https://archives.iu.edu/catalog/InU-Ar-VAA8138</p>  </relatedmaterial>
+  <dsc/>
+</archdesc>
+</ead>

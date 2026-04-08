@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://raw.githubusercontent.com/SAA-SDT/EAD3/master/ead3.rng"
+      type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<ead audience="internal" xmlns="http://ead3.archivists.org/schema/"><control countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" relatedencoding="marc" repositoryencoding="iso15511" scriptencoding="iso15924"><recordid instanceurl="">VAEplaceholder72</recordid><filedesc><titlestmt><titleproper>Alojz Ajdič Collection </titleproper><subtitle>Collection of Alojz Ajdič</subtitle><author>Sarah Helen Carter and Natalie Benefield</author></titlestmt><publicationstmt><publisher>Cook Music Library</publisher><address><addressline>William &amp; Gayle Cook Music Library</addressline><addressline>200 South Jordan Avenue</addressline><addressline>Bloomington, Indiana 47405</addressline><addressline localtype="business">812-855-2970</addressline><addressline localtype="email">libmus@iu.edu</addressline><addressline><ref href="https://libraries.indiana.edu/music" linktitle="https://libraries.indiana.edu/music" show="new">https://libraries.indiana.edu/music</ref></addressline></address><date>12/11/2024</date><num>MC72</num><p><ptr actuate="onload" href="http://webapp1.dlib.indiana.edu/archivesOnline/repositoryImages/music.jpg" show="embed"/></p></publicationstmt></filedesc><maintenancestatus value="derived"/><maintenanceagency countrycode="US"><agencycode>US-InU</agencycode><agencyname>Cook Music Library</agencyname></maintenanceagency><languagedeclaration><language langcode="eng">English</language><script scriptcode="Latn">Latin</script></languagedeclaration><conventiondeclaration><abbr>dacs</abbr><citation>Describing Archives: A Content Standard</citation></conventiondeclaration><localcontrol localtype="findaidstatus"><term>in_progress</term></localcontrol><maintenancehistory><maintenanceevent><eventtype value="derived"/><eventdatetime>2026-04-08T13:59:48-04:00</eventdatetime><agenttype value="machine"/><agent>ArchivesSpace v3.5.1</agent><eventdescription>This finding aid was produced using ArchivesSpace on Wednesday April  8, 2026 at 13:59</eventdescription></maintenanceevent></maintenancehistory></control><archdesc level="collection">
+  <did>
+    <unittitle>Alojz Ajdič Collection</unittitle>
+    <unitid>MC72</unitid>
+    <unitid localtype="aspace_uri">/repositories/11/resources/5860</unitid>
+    <repository>
+      <corpname>
+        <part>Cook Music Library</part>
+      </corpname>
+    </repository>
+    <langmaterial>
+      <languageset>
+        <language langcode="slv">Slovenian</language>
+        <script scriptcode="Latn">Latin</script>
+      </languageset>
+      <languageset>
+        <language langcode="eng">English</language>
+        <script scriptcode="Latn">Latin</script>
+      </languageset>
+    </langmaterial>
+    <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+      <quantity>7</quantity>
+      <unittype>item(s)</unittype>
+    </physdescstructured>
+    <unitdate datechar="creation" unitdatetype="inclusive">[unknown]</unitdate>
+    <abstract audience="internal" id="aspace_e8bf59bc38ae2224480917a5dbf598d2">The Alojz Ajdič Collection contains print music and audio recordings of compositions by composer Alojz Ajdič.</abstract>
+    <physloc audience="internal" id="aspace_abfb05989257bf9be0725e429be09e70">Cook Music Library (200 S Eagleson Ave, Bloomington, Indiana)</physloc>
+    <origination label="Creator">
+      <persname relator="cmp">
+        <part>Ajdič, Alojz, 1939-</part>
+      </persname>
+    </origination>
+  </did>
+  <accessrestrict audience="internal" id="aspace_baf9fd13bf451fe93dbcf8a683349d70">
+    <head>Conditions Governing Access</head>
+<p>Collection is open for research. Advance notice required.</p>  </accessrestrict>
+  <userestrict audience="internal" id="aspace_64a2904cf3d0bf90113de91c2c0f85c8">
+    <head>Conditions Governing Use</head>
+<p>The donor(s) of this collection have not transferred their copyrights for the materials to the William &amp; Gayle Cook Music Library. For more information, please contact the Music Library staff.</p><p>The William &amp; Gayle Cook Music Library respects the intellectual property rights of others and does not claim any copyrights for non-university records, materials in the public domain, or materials for which we do not hold a Deed of Gift. Responsibility for the determination of the copyright status of these materials rests with those persons wishing to reuse the materials. Researchers are responsible for securing permission from copyright owners and any other rights holders for any reuse of these materials that extends beyond fair use or other statutory limitations.</p><p>Digital reproductions of archival materials from the William &amp; Gayle Cook Music Library are made available for noncommercial educational and research purposes only. If you are the copyright holder for any of the digitized materials and have questions about its inclusion on our site, please <ref href="https://libraries.indiana.edu/cook-music-library">contact the Cook Music Library</ref> staff for more details.</p>  </userestrict>
+  <acqinfo audience="internal" id="aspace_39b5b0cc456f25436f55b671fb9a43d0">
+    <head>Immediate Source of Acquisition</head>
+<p>Donated to the Cook Music Library by Alojz Ajdič, June 2001. Delivered to the Cook Music LIbrary by Indiana University School of Social Work faculty member Elsa Iverson.</p>  </acqinfo>
+  <bioghist audience="internal" id="aspace_95c82823de86607179a51a8f76a68d06">
+    <head>Biographical / Historical</head>
+<p>Alojz Ajdič is a Slovenian composer. He studied the clarinet in school and began to work as a music teacher. From 1973 to 1983 he worked as the headmaster of The Kranj Music School in Kranj, Slovenia. Additionally, he worked as the director of the Carinthia Music School on Klagenfert, Austria. His compositions include orchestral works, vocal-instrumental works, choral works, and an opera. He has received the Zupancic Award for his second symphony, the Preseren Fund Award for his third symphony, as well as the Kozina Award bestowed by the Slovenian Society of Composers. He currently lives in Britof, Slovenia.</p>  </bioghist>
+  <arrangement audience="internal" id="aspace_8a13ef70ce4d8212584868c84f988555">
+    <head>Arrangement</head>
+<p>This collection is arranged into the following series: 	I. SCORES and II. AUDIO RECORDINGS</p>  </arrangement>
+  <scopecontent audience="internal" id="aspace_591f7b670f0ef66a516a29d68d9c6780">
+    <head>Scope and Contents</head>
+<p>The SCORES collection consists of print scores and parts of works by Alojz Ajdič. The AUDIO RECORDINGS collection consists of one compact disc (CD) recording of a work by Alojz Ajdič.</p>  </scopecontent>
+  <processinfo audience="internal" id="aspace_04a402ada7876d40ab036729b306b03a">
+    <head>Processing Information</head>
+<p>Preliminary collection survey and biographical information completed by Natalie Benefield, November 2024. Finding aid created by Sarah Helen Carter, December 2024.</p>  </processinfo>
+  <prefercite audience="internal" id="aspace_da12657f1484987f7d22d9b2241f3783">
+    <head>Preferred Citation</head>
+<p>[Item], Alojz Ajdič Collection, Collection MC72, William &amp; Gayle Cook Music Library, Bloomington.</p>  </prefercite>
+  <controlaccess>
+    <subject identifier="sh85066774" source="lcsh">
+      <part>Instrumental music</part>
+    </subject>
+    <genreform identifier="gf2014027077" source="lcgft">
+      <part>Scores</part>
+    </genreform>
+    <subject identifier="sh85125391" source="lcsh">
+      <part>Sound recordings</part>
+    </subject>
+    <persname audience="internal" relator="dpt" rules="rda" source="local">
+      <part>Iverson, Elsa, 1944-2009</part>
+    </persname>
+  </controlaccess>
+  <dsc><c01 audience="internal" id="aspace_7ed081728113d3bd5ea76893d029e65f" level="series"><did><unittitle>Scores</unittitle><unitid localtype="aspace_uri">/repositories/11/archival_objects/1610916</unitid></did><c02 audience="internal" id="aspace_d19eb3a14b7a4b62d7a1fa89a7dc583d" level="item"><did><unittitle>Fatamorgana: za simfonični orkester = Fata-morgana: for symphony orchestra</unittitle><unitid localtype="aspace_uri">/repositories/11/archival_objects/1610918</unitid></did></c02><c02 audience="internal" id="aspace_52ddfb3d4c7baa1daf087395ee843aa1" level="item"><did><unittitle>Pihalni Kvintet = Woodwind Quintet</unittitle><unitid localtype="aspace_uri">/repositories/11/archival_objects/1610919</unitid></did></c02><c02 audience="internal" id="aspace_0f922f83b10c4fdf39da3862dbb240bd" level="item"><did><unittitle>Klavirski Concert</unittitle><unitid localtype="aspace_uri">/repositories/11/archival_objects/1610920</unitid></did></c02><c02 audience="internal" id="aspace_87728c192094223381701866f5ec6ea3" level="item"><did><unittitle>Zvočni pejsaž: za flavto solo = Sounding landscape: for flute solo</unittitle><unitid localtype="aspace_uri">/repositories/11/archival_objects/1610921</unitid></did></c02><c02 audience="internal" id="aspace_fdf8f14846419bdd746aa54352a7d7ef" level="item"><did><unittitle>Med kapniki: za klarinet in klavir = From the stalactite underworld:  for clarinet and piano</unittitle><unitid localtype="aspace_uri">/repositories/11/archival_objects/1610922</unitid></did></c02><c02 audience="internal" id="aspace_2c271b1924f1f57c6ccfbfe13b7000c7" level="item"><did><unittitle>Pastirska pesem: za klarinet in klavir = Shepherd's song: for clarinet and piano</unittitle><unitid localtype="aspace_uri">/repositories/11/archival_objects/1610923</unitid></did></c02><c02 audience="internal" id="aspace_bb6f93afd85da11ca18811b8e5ce28f2" level="item"><did><unittitle>Solo de concours: za klarinet in klavir = for clarinet and piano</unittitle><unitid localtype="aspace_uri">/repositories/11/archival_objects/1610924</unitid></did></c02></c01><c01 audience="internal" id="aspace_f2633e3d9d823b34e4085fcf38aaaeb4" level="series"><did><unittitle>Audio Recordings</unittitle><unitid localtype="aspace_uri">/repositories/11/archival_objects/1610917</unitid></did></c01></dsc>
+</archdesc>
+</ead>

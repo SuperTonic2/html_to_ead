@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://raw.githubusercontent.com/SAA-SDT/EAD3/master/ead3.rng"
+      type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<ead xmlns="http://ead3.archivists.org/schema/"><control countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" relatedencoding="marc" repositoryencoding="iso15511" scriptencoding="iso15924"><recordid instanceurl="">VAE6827</recordid><filedesc><titlestmt><titleproper>Al Cobine Collection </titleproper><subtitle>Collection of Al Cobine</subtitle></titlestmt><publicationstmt><publisher>Cook Music Library</publisher><address><addressline>William &amp; Gayle Cook Music Library</addressline><addressline>200 South Jordan Avenue</addressline><addressline>Bloomington, Indiana 47405</addressline><addressline localtype="business">812-855-2970</addressline><addressline localtype="email">libmus@iu.edu</addressline><addressline><ref href="https://libraries.indiana.edu/music" linktitle="https://libraries.indiana.edu/music" show="new">https://libraries.indiana.edu/music</ref></addressline></address><date>11/11/2024</date><num>MC140</num><p><ptr actuate="onload" href="http://webapp1.dlib.indiana.edu/archivesOnline/repositoryImages/music.jpg" show="embed"/></p></publicationstmt><notestmt><controlnote><p>This is a preliminary finding aid. Processing is ongoing. Additional details will be added as processing is completed.</p></controlnote></notestmt></filedesc><maintenancestatus value="derived"/><maintenanceagency countrycode="US"><agencycode>US-InU</agencycode><agencyname>Cook Music Library</agencyname></maintenanceagency><languagedeclaration><language langcode="eng">English</language><script scriptcode="Latn">Latin</script></languagedeclaration><conventiondeclaration><abbr>dacs</abbr><citation>Describing Archives: A Content Standard</citation></conventiondeclaration><localcontrol localtype="findaidstatus"><term>in_progress</term></localcontrol><maintenancehistory><maintenanceevent><eventtype value="derived"/><eventdatetime>2026-04-08T13:59:43-04:00</eventdatetime><agenttype value="machine"/><agent>ArchivesSpace v3.5.1</agent><eventdescription>This finding aid was produced using ArchivesSpace on Wednesday April  8, 2026 at 13:59</eventdescription></maintenanceevent></maintenancehistory></control><archdesc level="collection">
+  <did>
+    <unittitle>Al Cobine Collection</unittitle>
+    <unitid>MC140</unitid>
+    <unitid localtype="aspace_uri">/repositories/11/resources/5814</unitid>
+    <repository>
+      <corpname>
+        <part>Cook Music Library</part>
+      </corpname>
+    </repository>
+    <langmaterial>
+      <languageset>
+        <language langcode="eng">English</language>
+        <script scriptcode="Latn">Latin</script>
+      </languageset>
+    </langmaterial>
+    <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+      <quantity>11.67</quantity>
+      <unittype>linear feet</unittype>
+    </physdescstructured>
+    <physdesc localtype="container_summary">7 containers, 22 folders</physdesc>
+    <unitdate datechar="creation" unitdatetype="inclusive">[unknown]</unitdate>
+    <abstract audience="internal" id="aspace_de31af74230a1817f7707e531e602ffa">The Al Cobine Collection collection includes musical scores, correspondence, papers, and audiovisual materials belonging to Al Cobine.</abstract>
+    <physloc audience="internal" id="aspace_490d8ecdb59658d44d8507778e258784">Cook Music Library (200 S Eagleson Ave, Bloomington, Indiana)</physloc>
+    <origination label="Creator">
+      <persname>
+        <part>Cobine, Al, 1927-2009</part>
+      </persname>
+    </origination>
+  </did>
+  <accessrestrict audience="internal" id="aspace_89aeeec733689ecdad6f1cc6cecd514d">
+    <head>Conditions Governing Access</head>
+<p>Collection is open for research. Advance notice required.</p>  </accessrestrict>
+  <userestrict audience="internal" id="aspace_7c8fb9555853402e4cbf71444c735b16">
+    <head>Conditions Governing Use</head>
+<p>The donor(s) of this collection have not transferred their copyrights for the materials to the William &amp; Gayle Cook Music Library. For more information, please contact the Music Library staff.</p><p>The William &amp; Gayle Cook Music Library respects the intellectual property rights of others and does not claim any copyrights for non-university records, materials in the public domain, or materials for which we do not hold a Deed of Gift. Responsibility for the determination of the copyright status of these materials rests with those persons wishing to reuse the materials. Researchers are responsible for securing permission from copyright owners and any other rights holders for any reuse of these materials that extends beyond fair use or other statutory limitations.</p><p>Digital reproductions of archival materials from the William &amp; Gayle Cook Music Library are made available for noncommercial educational and research purposes only. If you are the copyright holder for any of the digitized materials and have questions about its inclusion on our site, please <ref href="https://libraries.indiana.edu/cook-music-library">contact the Cook Music Library</ref> staff for more details.</p>  </userestrict>
+  <acqinfo audience="internal" id="aspace_cdb03cd35b38cdc3ea5acf17953ad925">
+    <head>Immediate Source of Acquisition</head>
+<p>Donated to the Cook Music Library by Stan Cobine and Mark Hood in 2022.</p>  </acqinfo>
+  <bioghist audience="internal" id="aspace_5a605e7dc814ea330c6a9aa9160a7083">
+    <head>Biographical / Historical</head>
+<p>Al Cobine was born in Richmond, Indiana on March 25, 1927. Cobine came to Bloomington, Indiana in the 50s to pursue a doctorate in political science, but later shifted his focus to saxophone and being a band leader. As a tenor saxophonist, Al Cobine performed with artists such Tony Bennett, eddy Arnold, Perry Como, Glenn Cambell and Elvis Presley. Cobine was also Henry Mancini's primary saxophone soloist and is credited with creating the "sound" of the iconic Pink Panther theme. In addition to performing, Cobine served as a musical contractor for Henry Mancini, Andy Williams, and Johnny Mathis. Al Cobine also published numerous works for choral, big band, jazz, and concert band ensembles. His compositions and instructional clinics had a lasting musical impact on music education at the high school and college levels. Later in life, Cobine served two terms on the Monroe County Council. Al Cobine passed away on May 21, 2009 at age 82.</p>  </bioghist>
+  <arrangement audience="internal" id="aspace_bc6497ac4fbc4f6201e75632715df1bf">
+    <head>Arrangement</head>
+<p>This collection is arranged into the following series: I. SCORES, II. CORRESPONDENCE, III. PAPERS, IV. AUDIOVISUAL MATERIALS</p>  </arrangement>
+  <scopecontent audience="internal" id="aspace_5d249b4b831162127cea29a378caa848">
+    <head>Scope and Contents</head>
+<p>The Al Cobine collection comprises 11.67 linear feet encompassing his career as a band leader, saxophonist, and composer, as well as his personal life. There are four series in the collection including Musical scores, Correspondence, Papers, and Audiovisual materials.</p>  </scopecontent>
+  <processinfo audience="internal" id="aspace_2b34db70e496959339e99fb065cfaee8">
+    <head>Processing Information</head>
+<p>Preliminary collection survey and biographical information completed by Natalie Benefield, August 2024. Accession record completed by Jared Walker, September 2024. Finding aid created by Sarah Helen Carter, November 2024.</p>  </processinfo>
+  <prefercite audience="internal" id="aspace_18e87f280703e4f54b0522e36561695c">
+    <head>Preferred Citation</head>
+<p>[Item], Al Cobine Collection, Collection MC140, William &amp; Gayle Cook Music Library, Bloomington.</p>  </prefercite>
+  <controlaccess>
+    <subject identifier="sh85011470" source="lcsh">
+      <part>Band music</part>
+    </subject>
+    <subject identifier="sh 85013941" source="lcsh">
+      <part>big band music</part>
+    </subject>
+    <subject identifier="sh85069833" source="lcsh">
+      <part>jazz</part>
+    </subject>
+    <genreform identifier="gf2014027077" source="lcgft">
+      <part>Scores</part>
+    </genreform>
+    <persname audience="internal" relator="dnr" rules="rda" source="local">
+      <part>Cobine, Stan</part>
+    </persname>
+    <persname audience="internal" relator="dnr" rules="rda" source="local">
+      <part>Hood, Mark</part>
+    </persname>
+  </controlaccess>
+  <dsc><c01 audience="internal" id="aspace_5bff104a6c83101340c52b7913cbfaf1" level="series"><did><unittitle>Scores</unittitle><unitid localtype="aspace_uri">/repositories/11/archival_objects/1608392</unitid></did></c01><c01 audience="internal" id="aspace_7d12ae91ee403ab6c0573b6e2bffcb3c" level="series"><did><unittitle>Correspondence</unittitle><unitid localtype="aspace_uri">/repositories/11/archival_objects/1608393</unitid></did></c01><c01 audience="internal" id="aspace_01222731124a7c7b6b81334249c21538" level="series"><did><unittitle>Papers</unittitle><unitid localtype="aspace_uri">/repositories/11/archival_objects/1608394</unitid></did></c01><c01 audience="internal" id="aspace_acfee573a5d0e334bf5b46a0fd13b7b8" level="series"><did><unittitle>Audiovisual Materials</unittitle><unitid localtype="aspace_uri">/repositories/11/archival_objects/1608395</unitid></did></c01></dsc>
+</archdesc>
+</ead>

@@ -195,7 +195,7 @@ def html_to_ead_xml_in_place(file_path):
 
 if __name__ == "__main__":
     if len(sys.argv) != 2:
-        print("Usage: python html_to_ead.py path/to/fragment.xml")
+        print("Usage: python html_to_ead.py path/to/note.xml")
         sys.exit(1)
 
     html_to_ead_xml_in_place(sys.argv[1])

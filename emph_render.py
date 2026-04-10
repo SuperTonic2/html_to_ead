@@ -47,7 +47,7 @@ def process_emph_in_file(file_path):
 
 if __name__ == "__main__":
     if len(sys.argv) != 2:
-        print("Usage: python emph_render.py path/to/fragment.xml")
+        print("Usage: python emph_render.py path/to/note.xml")
         sys.exit(1)
 
     process_emph_in_file(sys.argv[1])

@@ -7,7 +7,7 @@ Scripts were generated with assistance from Microsoft 365 Copilot (GPT‑5 chat 
 
 ### html_to_ead.py
 
-The main conversion script. Takes HTML or HTML‑escaped text fragments and normalizes them into EAD‑friendly XML, handling common HTML tags (<p>, <em>, <strong>, <u>, <a>, <br>) and converting them to appropriate EAD markup. It also cleans messy character encodings (quotes, accented characters, dashes, ampersands).
+The main conversion script. Takes HTML or HTML‑escaped text fragments and normalizes them into EAD‑friendly XML, handling common HTML tags and converting them to appropriate EAD markup. It also cleans messy character encodings (quotes, accented characters, dashes, ampersands).
 
 ### emph_render.py
 

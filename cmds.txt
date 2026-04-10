@@ -1,0 +1,3 @@
+python html_to_ead.py note.xml
+
+python emph_render.py note.xml

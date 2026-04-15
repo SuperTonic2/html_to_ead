@@ -7,7 +7,7 @@ Scripts were generated with assistance from Microsoft 365 Copilot (GPT‑5 chat 
 
 ### html_to_ead.py
 
-The main conversion script. Takes HTML or HTML‑escaped text fragments and normalizes them into EAD‑friendly XML, handling common HTML tags and converting them to appropriate EAD markup. It also cleans messy character encodings (quotes, accented characters, dashes, ampersands).
+Takes HTML or HTML‑escaped text fragments and normalizes them into EAD‑friendly XML, handling common HTML tags and converting them to appropriate EAD markup. Also cleans messy character encodings (quotes, accented characters, dashes, ampersands).
 
 ### emph_render.py
 
@@ -15,8 +15,8 @@ Assigns render attributes to <emph> elements. Distinguishes between header‑sty
 
 ### note.xml
 
-Paste text into this file before running html_to_ead.py or emph_render.py. After processing, this same file is rewritten in place with the cleaned, EAD‑compatible XML output.
+Paste text into this file before running html_to_ead.py or emph_render.py. After processing, this same file is rewritten in place with the EAD tagged output.
 
 ### cmds.txt
 
-Shows the command‑line order for running html_to_ead.py and emph_render.py.
+Shows the commands for running html_to_ead.py and emph_render.py.
